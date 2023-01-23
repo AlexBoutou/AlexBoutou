@@ -13,7 +13,9 @@
   
 
 - 🔎 I’m looking for an Analytics position  
-  
+
+- 🔭 Some Projects I've worked on: [Alex's Projects](https://alexandre-boutou.notion.site/Cool-Data-Projects-2512c198d6af4fe6847d44e4940f61f7)  
+
 
 <br/>  
 
